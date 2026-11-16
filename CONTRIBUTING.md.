@@ -1,0 +1,158 @@
+Contributing to OceanCloud
+
+Thank you for your interest in contributing to OceanCloud.
+
+OceanCloud welcomes responsible developers and technology professionals from around the world.
+
+This document explains how to apply and how collaboration works.
+
+1. About the project
+
+OceanCloud is an independent technology initiative under active development.
+
+Its long-term plans include cloud infrastructure, networking, domain services, email, defensive cybersecurity, developer tools, social networking and other digital services.
+
+Not all planned services are currently available.
+
+2. Contributor opportunities
+
+We welcome interest in the following areas:
+
+- Backend engineering
+- Frontend engineering
+- Full-stack development
+- API development
+- Database engineering
+- Cloud infrastructure and DevOps
+- Networking
+- Defensive cybersecurity
+- Software testing and quality assurance
+- UI/UX and product design
+- Technical writing
+- Product planning and documentation
+
+Applicants should identify the area in which they can make a meaningful contribution.
+
+3. Current compensation arrangements
+
+OceanCloud is currently self-funded and cannot offer salaries or guaranteed payments.
+
+Contributions at this stage are voluntary. Applicants must understand and freely accept this arrangement before participating.
+
+Future employment, payment or equity opportunities are not guaranteed. Any future arrangement will require separate discussions and formal written agreements.
+
+4. How to apply
+
+Please introduce yourself through the OceanCloud Community GitHub Discussions or another application channel officially announced by the project.
+
+Include:
+
+1. Your name or professional username.
+2. Your country and time zone.
+3. Your GitHub profile.
+4. Your technical skills.
+5. Your previous projects or portfolio.
+6. Your preferred OceanCloud division.
+7. Your availability and the type of contribution you can realistically make.
+8. Why you are interested in OceanCloud.
+
+Never publish passwords, API keys, personal identification documents or private phone numbers in public discussions.
+
+5. Applicant screening
+
+Applications are reviewed individually.
+
+The project may assess:
+
+- Previous technical contributions.
+- Practical engineering knowledge.
+- Communication and collaboration.
+- References where appropriate.
+- Understanding of the project's current stage.
+- Willingness to follow security and confidentiality rules.
+
+An application does not guarantee acceptance.
+
+6. Trial contributions
+
+Approved applicants may begin with a small, clearly defined evaluation task.
+
+The task, expected result, time commitment and review criteria should be agreed before work begins.
+
+Applicants should not be asked to perform substantial unpaid work as an indefinite trial.
+
+7. Private repository access
+
+OceanCloud's main engineering repository is private.
+
+Access is granted only to approved contributors who need it for their assigned responsibilities.
+
+Contributors must:
+
+- Protect all repository and account credentials.
+- Never share private source code without authorization.
+- Never publish environment variables, tokens or secrets.
+- Avoid making direct changes to the protected main branch.
+- Submit proposed changes for review.
+- Report security problems privately and responsibly.
+
+Access may be restricted or withdrawn when necessary.
+
+8. Code submission and review
+
+Code contributions must be submitted through GitHub pull requests or another approved process.
+
+Each contribution should explain:
+
+- What was changed.
+- Why the change is needed.
+- Which files or modules are affected.
+- How the change was tested.
+- Any security, database or compatibility implications.
+
+Changes may be reviewed, tested, revised or rejected.
+
+A passing automated test does not automatically mean a change is ready for production.
+
+9. Intellectual property and confidentiality
+
+Before making substantial contributions to the private OceanCloud platform, contributors must agree in writing on:
+
+- Ownership and permitted use of contributed code.
+- Confidentiality obligations.
+- Third-party libraries and their licences.
+- Any existing code or intellectual property they bring to the project.
+- How contributions may be used if collaboration ends.
+
+No contributor should assume that participation automatically grants company ownership or shares.
+
+Formal agreements must be completed before substantial proprietary contributions are accepted.
+
+10. Professional conduct
+
+All contributors are expected to:
+
+- Communicate respectfully.
+- Be honest about their skills and availability.
+- Respect other contributors.
+- Avoid harassment, discrimination and threats.
+- Respect confidentiality.
+- Report mistakes and security issues responsibly.
+
+11. Ending collaboration
+
+A contributor may leave voluntarily.
+
+OceanCloud may also end access or collaboration when project requirements, security or conduct make it necessary.
+
+Any outstanding rights and obligations will be handled according to the written agreements.
+
+12. Final note
+
+OceanCloud is being developed step by step.
+
+We value responsible engineering, clear communication, accountability and meaningful contributions.
+
+Thank you for considering joining OceanCloud.
+
+OceanCloud — Building technology, one foundation at a time.
